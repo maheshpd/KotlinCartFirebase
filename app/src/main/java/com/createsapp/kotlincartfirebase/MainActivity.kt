@@ -1,5 +1,6 @@
 package com.createsapp.kotlincartfirebase
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.EventLog
@@ -114,6 +115,9 @@ class MainActivity : AppCompatActivity(), IDrinkLoadListener, ICartLoadListener 
         recycler_drink.layoutManager = gridLayoutManager
         recycler_drink.addItemDecoration(SpaceItemDecoration())
 
+        btnCart.setOnClickListener {
+            startActivity(Intent(this, CartActivity::class.java))
+        }
     }
 
     override fun onDrinkLoadSuccess(drinkModelList: List<DrinkModel>) {
