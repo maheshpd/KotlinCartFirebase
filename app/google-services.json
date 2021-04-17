@@ -1,0 +1,303 @@
+{
+  "project_info": {
+    "project_number": "479040034489",
+    "firebase_url": "https://fir-tutorial-5f0c1.firebaseio.com",
+    "project_id": "fir-tutorial-5f0c1",
+    "storage_bucket": "fir-tutorial-5f0c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479040034489:android:dfba090fafcee860",
+        "android_client_info": {
+          "package_name": "com.arfeenkhan.phoneverification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479040034489-ilrcja079jb3p49vjlgqd0csvqmho20t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arfeenkhan.phoneverification",
+            "certificate_hash": "7d2bf45c126b03b665ef74bc08a960d5dba35f67"
+          }
+        },
+        {
+          "client_id": "479040034489-di80d0up4v9hpoi00hk90o31fj7ed9ic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg17wAfvXhTMdbTmmE7QOTWn7TwfAnFOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479040034489-di80d0up4v9hpoi00hk90o31fj7ed9ic.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "479040034489-2dphcib5bl681e6qc9b5dr682mh5lfgg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Arfeenkhan.RNDMDemo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479040034489:android:5c9a52f17ecf26fe7ead68",
+        "android_client_info": {
+          "package_name": "com.createsapp.kotlincartfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479040034489-di80d0up4v9hpoi00hk90o31fj7ed9ic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg17wAfvXhTMdbTmmE7QOTWn7TwfAnFOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479040034489-di80d0up4v9hpoi00hk90o31fj7ed9ic.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "479040034489-2dphcib5bl681e6qc9b5dr682mh5lfgg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Arfeenkhan.RNDMDemo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479040034489:android:9e94c39de09180577ead68",
+        "android_client_info": {
+          "package_name": "com.example.firebasemobileauthicationdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479040034489-4pn3jlcicqlme97md7hfgb5jiasmu6bs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasemobileauthicationdemo",
+            "certificate_hash": "2a0ec9932002b3b5b9735609c5e0db58681fd9c9"
+          }
+        },
+        {
+          "client_id": "479040034489-di80d0up4v9hpoi00hk90o31fj7ed9ic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg17wAfvXhTMdbTmmE7QOTWn7TwfAnFOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479040034489-di80d0up4v9hpoi00hk90o31fj7ed9ic.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "479040034489-2dphcib5bl681e6qc9b5dr682mh5lfgg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Arfeenkhan.RNDMDemo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479040034489:android:d0fcdf3c5f67c6fb7ead68",
+        "android_client_info": {
+          "package_name": "com.example.mvvmdemoinjava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479040034489-di80d0up4v9hpoi00hk90o31fj7ed9ic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg17wAfvXhTMdbTmmE7QOTWn7TwfAnFOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479040034489-di80d0up4v9hpoi00hk90o31fj7ed9ic.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "479040034489-2dphcib5bl681e6qc9b5dr682mh5lfgg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Arfeenkhan.RNDMDemo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479040034489:android:5174503a3d43a02a",
+        "android_client_info": {
+          "package_name": "com.example.mymall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479040034489-0ue83smv4m1f41jrj0msbl2nspmboktl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mymall",
+            "certificate_hash": "055c040555477ccd81f98f1db8b740ffcce46fb2"
+          }
+        },
+        {
+          "client_id": "479040034489-di80d0up4v9hpoi00hk90o31fj7ed9ic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg17wAfvXhTMdbTmmE7QOTWn7TwfAnFOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479040034489-di80d0up4v9hpoi00hk90o31fj7ed9ic.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "479040034489-2dphcib5bl681e6qc9b5dr682mh5lfgg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Arfeenkhan.RNDMDemo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479040034489:android:6a3b676d19ee4eb3",
+        "android_client_info": {
+          "package_name": "com.mahesh.androidissimples.eatitdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479040034489-4b0j8b6tg1v9au3m7d4jfjkc22ps4e7i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mahesh.androidissimples.eatitdemo",
+            "certificate_hash": "40d5caf8b5793ae5e017c8b8e96cf14564664489"
+          }
+        },
+        {
+          "client_id": "479040034489-di80d0up4v9hpoi00hk90o31fj7ed9ic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg17wAfvXhTMdbTmmE7QOTWn7TwfAnFOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479040034489-di80d0up4v9hpoi00hk90o31fj7ed9ic.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "479040034489-2dphcib5bl681e6qc9b5dr682mh5lfgg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Arfeenkhan.RNDMDemo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479040034489:android:3e97f9143d8eae16",
+        "android_client_info": {
+          "package_name": "com.mahesh.androidissimples.firebasetutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479040034489-2rbvt7r2oaj2fp666vnpm5gs5o2tuvuc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mahesh.androidissimples.firebasetutorial",
+            "certificate_hash": "40d5caf8b5793ae5e017c8b8e96cf14564664489"
+          }
+        },
+        {
+          "client_id": "479040034489-di80d0up4v9hpoi00hk90o31fj7ed9ic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg17wAfvXhTMdbTmmE7QOTWn7TwfAnFOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479040034489-di80d0up4v9hpoi00hk90o31fj7ed9ic.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "479040034489-2dphcib5bl681e6qc9b5dr682mh5lfgg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Arfeenkhan.RNDMDemo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
